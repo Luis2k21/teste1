@@ -1,1 +1,1 @@
-teste para o Termux
+Sobrepondo o texto anterior
